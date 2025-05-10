@@ -67,3 +67,8 @@ A guide created after extensive conversation with ChatGPT. Uses my existing hard
 | Height 2              | Denon Height 2 Pre-Out | Marantz TAPE IN        | Front B Speaker Terminals | Height 2 L/R (inside)              |
 | Outdoor Stereo        | Denon assignable amp  | —                       | Height assignable outputs | Stereo speakers (outside)         |
 | Outdoor Subwoofer     | Denon Sub Out (split) | —                       | RCA to powered sub        | Optional external sub (outside)   |
+
+
+# Also enjoy this "diagram" offered by ChatGPT
+
+![image](https://github.com/user-attachments/assets/203d3984-be09-465f-8d12-b8f9f194d303)
